@@ -1,5 +1,5 @@
-# KnockUI — Releases
+# TapMac — Releases
 
-This repository hosts official releases of KnockUI.
+This repository hosts official releases of TapMac.
 
 Download the latest version from the [Releases](../../releases) page.
